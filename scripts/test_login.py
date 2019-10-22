@@ -1,2 +1,2 @@
 class TestLogin:
-    pass
+    print（123）
